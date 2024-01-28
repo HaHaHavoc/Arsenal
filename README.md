@@ -6,7 +6,8 @@
 - [A]() [B]() [C]() [D]() [E]() [F]() [G]() [H]() [I]() 
 - [J]() [K]() [L]() [M]() [N]() [O]() [P]() [Q]() [R]()
 - [S]() [T]() [U]() [V]() [W]() [X]() [Y]() [Z]()
-## Contributors of This Repository That Helped Organize This Library
+# Contributors of This Repository That Helped Organize This Library
+#### Contributions and feedback are welcome to help expand the contents of this Arsenal. If you wish to contribute to this digital arsenal DM me on Discord: hahahavoc
 - [A]() [B]() [C]() [D]() [E]() [F]() [G]() [H]() [I]() 
 - [J]() [K]() [L]() [M]() [N]() [O]() [P]() [Q]() [R]()
 - [S]() [T]() [U]() [V]() [W]() [X]() [Y]() [Z]()
