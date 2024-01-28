@@ -11,6 +11,20 @@
 
 #  Contents
 ### Advanced Surveilance Techniques
+#### - Biometric Surveilance
+#### - Communication Interception
+#### - Counter-Surveilance Techniques
+#### - Covert Surveilance
+#### - Cyber Surveilance
+#### - Data Analysis and Interpretation
+#### - Drone and Aerial Surveilance
+#### - Emerging Technologies in Surveilance
+#### - Hunan Tracking and Monitoring
+#### - Legal and Ethical Considerations With Advanced Surveilance
+#### - Sensor Technologies
+#### - Social Media and Open Source Intelligence (OSINT)
+#### - Spatial Surveilance
+#### - Surveilance for National Security
 ### AI and Autonomous System
 ### Alternate Power Sources
 ### Ammunition
