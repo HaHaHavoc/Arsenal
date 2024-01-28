@@ -2,9 +2,11 @@
 #### This project is a comprehensive educational resource library that compiles a diverse range of materials for the purpose of facilitating learning. It is designed to be accessible to anyone and everyone, making educational resources available to anyone interested in expanding their knowledge.
 #### Users are granted access to the library with the understanding that its contents are strictly meant for educational purposes. The curator explicitly disclaims any responsibility for the actions of users and highlights that misuse of the library may result in bodily or lethal harm. By accessing the library, users acknowledge their individual responsibility for their actions and agree to use the resources in a responsible and ethical manner.
 # Acknowledgements
-#### The library curator emphasizes that they do not claim ownership of the information contained within and duly acknowledges the intellectual properties of respective authors.
-## Authors
-
+#### I would like to emphasize that they do not claim ownership of the information contained within this library and acknowledges the intellectual properties of their respective authors. Below are those authors of the documents, research papers and other resources included in this library.
+- [A]() [B]() [C]() [D]() [E]() [F]() [G]() [H]() [I]() 
+- [J]() [K]() [L]() [M]() [N]() [O]() [P]() [Q]() [R]()
+- [S]() [T]() [U]() [V]() [W]() [X]() [Y]() [Z]()
+## Contributors of This Repository That Helped Organize This Library
 - [A]() [B]() [C]() [D]() [E]() [F]() [G]() [H]() [I]() 
 - [J]() [K]() [L]() [M]() [N]() [O]() [P]() [Q]() [R]()
 - [S]() [T]() [U]() [V]() [W]() [X]() [Y]() [Z]()
