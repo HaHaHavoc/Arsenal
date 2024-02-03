@@ -1,0 +1,28 @@
+This remix is fairly straight forward. The hardest part is building the charging handle.
+Everything bolts on with either m5 or m3 bolts.  Just build the 3011 like normal minus the m3 bolts.
+
+----Upper Cover Installation----
+1.) Slide the dust cover on then bolt it on.
+2.) Slide the handguard on and bolt it on.
+	You may want to install the endcap on the hand guard first. Use M3 bolts for this.
+
+----Brace/Stock Instructions----
+1.) Drill the hinge and stock hole with a 1/4" drill bit.  Do not drill them separately.  Mate them together and then drill them. 
+	This will make for a tighter fit with a 1/4" clevis pin.  Use a 1/4" inner diameter spring for the stock hinge.  
+2.) Bolt the stock assembly on.
+
+----Charging Handle Fabrication and Install----
+1.) Slowly screw a m3 bolt into the charging handle.  Once fully inserted mark the excess and remove the bolt from the charging handle.
+2.) Cut the excess off of the bolt.  
+3.) Reinsert the bolt and using a large file sand down the top of the cleat until you start removing metal from the bolt.
+4.) Check to see if it will install in the Upper Cover.  If there is not enough clearance remove some more material.  
+	There should be too much plastic to actually insert the handle into the slide.
+5.) Take a heat gun or soldering iron and gently heat up the part of the handle that inserts into the slide.  Once heated press the handle in.  
+	If the handle gets distorted while inserting don't worry.  Remove it from the slide and reheat it with the heat gun.  The plastic will more or less 
+	return to its original shape.  Heat it up and try again.  
+6.) Once you have a good fit remove the handle from the slide.  Remove the bolt.
+7.) Coat the inside of the hole with jb weld. Coat the bolt. Reinsert and do a smooth thin coat on the cleat to fill in any gaps. Allow to cure for 12 hours.
+8.) Gently tap the charging handle into the slide with a armorers hammer.  Should be a nice snug fit now.
+9.) After 24 hours you can gently sand the non-articulating parts of the handle and paint it if you like.
+
+Note: The mag grip is just for looks and will slide onto your magazine.  
